@@ -1,0 +1,3 @@
+# This is a GraphQL Crash Course by Sir Piyush Garg
+## TODO 
+First have to complete the docker, postgreSQL and Prisma. Then I will do the rest...
